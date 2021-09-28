@@ -1,4 +1,4 @@
-## Oii! Eu sou o Erick Rocha Salignac Araújo.
+## Oii! Eu sou o Erick Rocha Salignac Araujo.
 - 🌱 Atualmente estou aprendendo HTML, CSS, Java e Javascript;
 - 👯 Estou procurando emprego ou novas oportunidades;
 - 🤔 Estou procurando por ajuda com minha evolução;
