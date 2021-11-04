@@ -1,9 +1,5 @@
-## Oii! Eu sou o Erick Rocha Salignac Araujo.
-- 🌱 Atualmente estou aprendendo HTML, CSS, Java e Javascript;
-- 👯 Estou procurando emprego ou novas oportunidades;
-- 🤔 Estou procurando por ajuda com minha evolução;
-- 💬 Me pergunte sobre qualquer coisa;
-- 📫 Como falar comigo: ericksalignac@gmail.com;
+## Erick Rocha Salignac Araujo.
+- Take it easy, i'm still learning
  <div>
   <a href="https://github.com/ericksalignac">
   <img height="180em" <img src="https://github-readme-stats.vercel.app/api?username=ericksalignac&include_all_commits=false&show_icons=true&count_private=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000"/>
