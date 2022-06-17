@@ -1,5 +1,5 @@
 ## Erick Rocha Salignac Araujo.
-- Take it easy, i'm still learning
+- Estudante de Engenharia de Software
  <div>
   <a href="https://github.com/ericksalignac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericksalignac&count_private=true&include_all_commits=true&border_radius=5px&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&layout=compact"/>
