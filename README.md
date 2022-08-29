@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=Erick Rocha Salignac Araujo&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Erick+Rocha+Salignac+Araujo;I'm+20+years+old;I+from+Brasília,+DF;I+study+software+engineering+at+Ampli;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
